@@ -43,4 +43,3 @@
     │   └── resources  
     └── test  
         └── java 
-'''
